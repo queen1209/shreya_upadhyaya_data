@@ -6,7 +6,7 @@
 <body>
 	<img src="images/germany.png">
 
-	<h1> data visualization </h1>
+	< data visualization 
 
 <p>Creating visualization graph by python  with the data base sheet obtain by olympic games. sort the data given and using  main subject germany show the diffrence of gold medal.
 
